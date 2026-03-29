@@ -26,6 +26,11 @@ It builds on my earlier mini project **Medora.AI**, but goes deeper with **Convo
   - Hugging Face Spaces / Render (free hosting)
 
 ---
+## ui interface :
+<img width="345" height="790" alt="Screenshot 2026-03-29 182449" src="https://github.com/user-attachments/assets/6491f829-c203-4bd3-920a-30db85da1b50" />    <img width="345" height="790" alt="Screenshot 2026-03-29 182514" src="https://github.com/user-attachments/assets/7da8a190-07d1-4008-ab3a-3ca1153e2bb3" />
+
+
+
 
 ## Dataset
 - **HAM10000** – Skin lesion dataset (dermatology)
